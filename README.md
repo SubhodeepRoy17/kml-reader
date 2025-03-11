@@ -24,7 +24,7 @@
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Upload+Screen" alt="Upload Screen" width="400px" />
+  <img src="https://github.com/user-attachments/assets/6c809144-c8af-4f46-80a4-f7df5ea0a559" alt="Upload Screen" width="400px" />
   <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Map+View" alt="Map View" width="400px" />
   <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Summary+View" alt="Summary View" width="400px" />
   <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Details+View" alt="Details View" width="400px" />
