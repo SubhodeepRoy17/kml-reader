@@ -24,10 +24,10 @@
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6c809144-c8af-4f46-80a4-f7df5ea0a559" alt="Upload Screen" width="400px" />
-  <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Map+View" alt="Map View" width="400px" />
-  <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Summary+View" alt="Summary View" width="400px" />
-  <img src="https://via.placeholder.com/800x450/0a0a1a/6366f1?text=Details+View" alt="Details View" width="400px" />
+  <img src="https://github.com/user-attachments/assets/6c809144-c8af-4f46-80a4-f7df5ea0a559" alt="Upload Screen" width="100%" />
+  <img src="https://github.com/user-attachments/assets/47b15db9-1ac9-4976-92fb-c9b7e9b5a163" alt="Map View" width="100%" />
+  <img src="https://github.com/user-attachments/assets/cf2682cf-7ade-44f9-b64e-abb18975935c" alt="Summary View" width="100%" />
+  <img src="https://github.com/user-attachments/assets/420b35a3-9468-49b0-ba60-9bb67493456b" alt="Details View" width="100%" />
 </div>
 
 ## 🛠️ Installation
