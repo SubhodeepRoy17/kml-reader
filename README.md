@@ -1,8 +1,6 @@
 # 🌌 Cosmic KML Explorer
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x600/0a0a1a/6366f1?text=Cosmic+KML+Explorer" alt="Cosmic KML Explorer Banner" width="800px" />
-  
+<div align="center">  
   <p>A space-themed KML file viewer and analyzer with interactive map visualization</p>
 
   <div>
